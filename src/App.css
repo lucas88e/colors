@@ -28,7 +28,88 @@
   height: 200px;
   border-width: 1px;
   border-style: solid;
-  color: white;
+  color: rgb(184, 157, 157);
+}
+
+.red{
+color: red;
+}
+.green{
+  color: green;
+  }
+.pink{
+    color: pink;
+    }
+.yellow{
+  color:yellow
+}
+.purple{
+  color: purple;
+  }
+.white{
+  color: white
+}
+.blue{
+  color:blue
+}
+.aqua{
+  color:aqua
+}
+.olive{
+  color: olive
+}
+.red.match {
+  background-color: red;
+  font-weight: bold;
+  color: black;
+}
+
+.green.match {
+  background-color: green;
+  font-weight: bold;
+  color: black;
+}
+
+.pink.match {
+  background-color: pink;
+  font-weight: bold;
+  color: black;
+}
+
+.yellow.match {
+  background-color: yellow;
+  font-weight: bold;
+  color: black;
+}
+
+.purple.match {
+  background-color: purple;
+  font-weight: bold;
+  color: black;
+}
+
+.white.match {
+  background-color: white;
+  font-weight: bold;
+  color: black;
+}
+
+.blue.match {
+  background-color: blue;
+  font-weight: bold;
+  color: black;
+}
+
+.aqua.match {
+  background-color: aqua;
+  font-weight: bold;
+  color: black;
+}
+
+.olive.match {
+  background-color: olive;
+  font-weight: bold;
+  color: black;
 }
 
 /* Estilos para el input */
@@ -45,6 +126,14 @@ input {
 }
 
 
-
+.bigBox{
+  margin-top: 25px;
+  padding:25px ;
+   border-width: 1px;
+   border-style: solid;
+   color: rgb(59, 39, 39);
+   border-radius: 25px;
+ background-color: rgb(63, 58, 58);
+ }
 
 
