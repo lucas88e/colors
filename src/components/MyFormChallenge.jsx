@@ -21,15 +21,7 @@ const colors = ['red', 'green', 'pink', 'yellow', 'purple', 'white', 'blue', 'aq
     {colors.map((color)=>(
       <BoxColor key={color} value={value} color={color}/>
     ))}
-{/*     
-    <BoxColor value={value} color="green" />
-    <BoxColor value={value} color="pink"/>
-    <BoxColor value={value} color="yellow"/>
-    <BoxColor value={value} color="purple"/>
-    <BoxColor value={value} color="white"/>
-    <BoxColor value={value} color="blue"/>
-    <BoxColor value={value} color="aqua"/>
-    <BoxColor value={value} color="olive"/> */}
+
     </div>
  </div>
     </>
